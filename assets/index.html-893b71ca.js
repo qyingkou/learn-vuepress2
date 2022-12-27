@@ -1,0 +1,1 @@
+import{_ as t,M as o,p as n,q as c,Q as a,N as s,V as r,t as l}from"./framework-49860b1b.js";const _={};function d(i,m){const e=o("RouterLink");return n(),c("div",null,[a("p",null,[s(e,{to:"/demos/buildin/component.html"},{default:r(()=>[l("component")]),_:1})])])}const u=t(_,[["render",d],["__file","index.html.vue"]]);export{u as default};
