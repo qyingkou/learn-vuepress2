@@ -1,13 +1,13 @@
 import { defaultTheme } from 'vuepress'
 
 export default {
+  base: '/cungee/',
+  lang: 'zh-CN',
+  title: 'CUNGEE',
+  description: 'This is a zero-based advanced guide, aiming to pass the national postgraduate examination (408 direction)',
   theme: defaultTheme({
-    base: '/cungee/',
     logo: '/images/logo.png',
-    notFound: ["啥也没有", "空空如也", "这是未开垦的荒地", "一片荒芜之地"],
-    // backToHome: "回去",
-    lastUpdated: true,
-    repo: 'https://github.com/qingkooo/CUNGEE',
+    repo: 'https://github.com/qyingkou/cungee',
     navbar: [
       {
         text: 'foo',
@@ -16,8 +16,7 @@ export default {
       {
         text: 'bar',
         children: ['/group/foo.md', '/group/bar.md', '/group/see.md'],
-      },
-      '/bar/README.md',
+      }
     ],
     sidebar: [
       {

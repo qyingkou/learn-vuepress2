@@ -1,5 +1,5 @@
 {
-  "name": "china-unified-national-graduate-entrance-examination",
+  "name": "cungee",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qingkooo/China-Unified-National-Graduate-Entrance-Examination.git"
+    "url": "git+https://github.com/qyingkou/cungee.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/qingkooo/China-Unified-National-Graduate-Entrance-Examination/issues"
+    "url": "https://github.com/qyingkou/cungee/issues"
   },
-  "homepage": "https://github.com/qingkooo/China-Unified-National-Graduate-Entrance-Examination#readme",
+  "homepage": "https://github.com/qyingkou/cungee#readme",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.59"
   }
