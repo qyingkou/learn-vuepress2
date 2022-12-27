@@ -1,0 +1,24 @@
+{
+  "name": "china-unified-national-graduate-entrance-examination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qingkooo/China-Unified-National-Graduate-Entrance-Examination.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qingkooo/China-Unified-National-Graduate-Entrance-Examination/issues"
+  },
+  "homepage": "https://github.com/qingkooo/China-Unified-National-Graduate-Entrance-Examination#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.59"
+  }
+}
