@@ -1,23 +1,23 @@
 import { defaultTheme } from 'vuepress'
 
 export default {
-  base: '/cungee/',
+  base: '/learn-vuepress2/',
   lang: 'zh-CN',
-  title: 'CUNGEE',
-  description: 'This is a zero-based advanced guide, aiming to pass the national postgraduate examination (408 direction)',
+  // title: '',
+  description: '',
   theme: defaultTheme({
     logo: '/images/logo.png',
-    repo: 'https://github.com/qyingkou/cungee',
-    navbar: [
-      {
-        text: 'foo',
-        link: '/',
-      },
-      {
-        text: 'bar',
-        children: ['/group/foo.md', '/group/bar.md', '/group/see.md'],
-      }
-    ],
+    repo: 'https://github.com/qyingkou/learn-vuepress2',
+    // navbar: [
+    //   {
+    //     text: 'foo',
+    //     link: '/',
+    //   },
+    //   {
+    //     text: 'bar',
+    //     children: ['/group/foo.md', '/group/bar.md', '/group/see.md'],
+    //   }
+    // ],
     sidebar: [
       {
         text: 'Foo',
@@ -52,5 +52,6 @@ export default {
         ],
       },
     ],
+    footer: 'footer!!!!!!'
   }),
 }

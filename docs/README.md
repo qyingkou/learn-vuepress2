@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/logo.png
 heroText: Postgraduate Examination Guide
-tagline: computer science (408)
+tagline: 408 Computer Professional
 actions:
   - text: Read
     link: /zh/guide/getting-started.html
@@ -12,12 +12,7 @@ actions:
 #     details: details
 #   - title: title2
 #     details: details
-footer: 'footer'
+# footer: 'footer'
 ---
 
-
-[markdown](./markdown/README.md)
-
-[buildin1](./buildin/component.md)
-
-[buildin2](./buildin/container.md)
+[component](./demos/buildin/component.md)
